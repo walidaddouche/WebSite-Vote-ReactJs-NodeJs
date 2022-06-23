@@ -11,10 +11,10 @@ et de le mettre en public ou en privé
 1. Organisateur 
 2. Electeur
 <h3> Organisateur</h3>
-    L'organisateur doit créer un Compte via la page d'accueil du site en appuyant sur Organisateur il sera donc redirigé vers la page de creation de compte ou il aura a remplir un formulaire et une fois le compte crée
-il aura accées a une page ou il pourra créer un vote ou un sondage
+    <p>L'organisateur doit créer un Compte via la page d'accueil du site en appuyant sur Organisateur il sera donc redirigé vers la page de creation de compte ou il aura a remplir un formulaire et une fois le compte crée
+il aura accées a une page ou il pourra créer un vote ou un sondage</p>
     
-    <h3> Electeur </h3>
+<h3> Electeur</h3>
     L'electeur aura l'identifiant d'un Vote qu'il tappera sur une formulaire</br> Cas 1 : Si le vote ou le sondage est public et que l'electeur identifié par son addresse Email n'a pas encore voté il sera redirigé vers une page pour pouvoir le faire <br> Cas 2 : Si le vote ou le sondage est privé et que l'electeur identifié par son addresse email n'a pas encore voté il aura a tapper un code pass qu'il aura recu par mail si l'organisateur la rajouter comme electeur de ce vote ou sondage privé 
 
 
